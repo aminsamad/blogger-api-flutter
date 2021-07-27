@@ -14,7 +14,7 @@ class BloggerScreen extends StatefulWidget {
 class _BloggerScreenState extends State<BloggerScreen> {
   final String apiKey = 'AIzaSyC4nZXfJ8Cbwiy17XuML1GtMh18hudQuXw';
   //Enter your Blog Id here
-  final String blogId = '6550217501575978298';
+  final String blogId = '6701914497168339121';
 
   //Function for Fetching Posts
   Future<PostList> fetchPosts() async {
